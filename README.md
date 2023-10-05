@@ -12,7 +12,7 @@ Olá, desenvolvedor! 👋 Bem-vindo ao desafio! Seu objetivo é criar um Sistema
 - [ ] Implementar autenticação de usuários (registro, login, logout).
 - [ ] Utilizar o sistema de autenticação padrão do Laravel.
 
-### 2. CRUD de Tarefas (Nível Básico):
+### 2. CRUD(create, reader,update,delete) de Tarefas (Nível Básico):
 - [ ] Os usuários autenticados devem ser capazes de criar e ler tarefas.
 - [ ] Cada tarefa deve ter um título e descrição.
 
